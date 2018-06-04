@@ -3,5 +3,10 @@
 margin-right: auto;
 margin-left: auto;
 
-background-color:#2EFE9A	
+	
+}
+section {
+width: 960px;
+height: 350px;
+background-color:#00FF80	
 }
